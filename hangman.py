@@ -43,7 +43,6 @@ for i in word_to_guess:
 times_to_guess = 6
 
 print("Guess the word!")
-print(word_to_guess)
 
 
 updated_word = dashes
